@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="Pengguna (Administrator/petugas)" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="164.5" y="128" width="280" height="802" as="geometry" />
+          <mxGeometry x="160" y="128" width="280" height="802" as="geometry" />
         </mxCell>
         <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="2" vertex="1">
           <mxGeometry x="125" y="40" width="30" height="30" as="geometry" />
@@ -99,9 +99,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="__GuVXdMnl9JLXDUSHel-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3" source="38" target="38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="__GuVXdMnl9JLXDUSHel-42" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="21" target="10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="289.5" y="298" as="sourcePoint" />
@@ -161,9 +158,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="__GuVXdMnl9JLXDUSHel-72" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="__GuVXdMnl9JLXDUSHel-63" target="38">
+        <mxCell id="__GuVXdMnl9JLXDUSHel-72" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="__GuVXdMnl9JLXDUSHel-63" target="38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="314.5" y="700" as="sourcePoint" />
+            <mxPoint x="305" y="860" as="sourcePoint" />
             <mxPoint x="314.5" y="740" as="targetPoint" />
             <Array as="points">
               <mxPoint x="305" y="875" />
