@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="beRLBzT_XKM5bKB51FGa">
-    <mxGraphModel dx="1748" dy="3337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="380" dy="2556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -543,7 +543,7 @@
             <mxPoint x="-75" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kw15Nh-CQwzezvl_8yU9-49" value="simpan tanggapan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=9;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=#393C56;" parent="Kw15Nh-CQwzezvl_8yU9-37" vertex="1">
+        <mxCell id="Kw15Nh-CQwzezvl_8yU9-49" value="kirim tanggapan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=9;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=#393C56;" parent="Kw15Nh-CQwzezvl_8yU9-37" vertex="1">
           <mxGeometry x="60" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Kw15Nh-CQwzezvl_8yU9-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="Kw15Nh-CQwzezvl_8yU9-37" source="Kw15Nh-CQwzezvl_8yU9-42" target="Kw15Nh-CQwzezvl_8yU9-49" edge="1">
