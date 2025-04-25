@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="beRLBzT_XKM5bKB51FGa">
-    <mxGraphModel dx="872" dy="499" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="698" dy="399" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -836,12 +836,6 @@
         <mxCell id="Xj3DyyJI-02sH1WiKpl6-13" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="Xj3DyyJI-02sH1WiKpl6-9">
           <mxGeometry x="82" y="494" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xj3DyyJI-02sH1WiKpl6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="Xj3DyyJI-02sH1WiKpl6-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="174.76" as="sourcePoint" />
-            <mxPoint x="-60" y="174.76" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Xj3DyyJI-02sH1WiKpl6-20" value="valid?" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;fillColor=none;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="Xj3DyyJI-02sH1WiKpl6-9">
           <mxGeometry x="72" y="238" width="56" height="54" as="geometry" />
         </mxCell>
@@ -919,6 +913,12 @@
             <Array as="points">
               <mxPoint x="1138" y="1765" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xj3DyyJI-02sH1WiKpl6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xj3DyyJI-02sH1WiKpl6-7" target="Xj3DyyJI-02sH1WiKpl6-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1205" y="1518" as="sourcePoint" />
+            <mxPoint x="1181" y="1541.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
