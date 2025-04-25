@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="793" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="646" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -519,12 +519,12 @@
         <mxCell id="JG5mKUsr8R8CMkxU9Bzs-12" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;lupa password&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3190" y="250" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JG5mKUsr8R8CMkxU9Bzs-14" value="6. menyimpan password baru" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.193;entryY=0.452;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.939;exitY=0.71;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="JG5mKUsr8R8CMkxU9Bzs-14" value="5. menyimpan password baru" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.193;entryY=0.452;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.939;exitY=0.71;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3334.39" y="680" as="sourcePoint" />
-            <mxPoint x="3566.9300000000003" y="680.5999999999999" as="targetPoint" />
+            <mxPoint x="3334.39" y="667.63" as="sourcePoint" />
+            <mxPoint x="3566.9300000000003" y="668.2299999999999" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3540" y="680.2" />
+              <mxPoint x="3540" y="667.83" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -551,21 +551,36 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JG5mKUsr8R8CMkxU9Bzs-25" value="5. menampilkan kesalahan" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="JG5mKUsr8R8CMkxU9Bzs-19">
+        <mxCell id="JG5mKUsr8R8CMkxU9Bzs-25" value="7. menampilkan kesalahan" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3214.5" y="646.8199999999999" as="sourcePoint" />
-            <mxPoint x="2980" y="646.8199999999999" as="targetPoint" />
+            <mxPoint x="3569.5" y="749.29" as="sourcePoint" />
+            <mxPoint x="2980" y="749.29" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3115" y="646.8199999999999" />
+              <mxPoint x="3115" y="749.29" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JG5mKUsr8R8CMkxU9Bzs-26" value="7. notifikasi sukses" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.988;exitY=0.736;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JG5mKUsr8R8CMkxU9Bzs-4" target="JG5mKUsr8R8CMkxU9Bzs-19">
+        <mxCell id="JG5mKUsr8R8CMkxU9Bzs-29" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="3110" y="610" width="500" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="JG5mKUsr8R8CMkxU9Bzs-30" value="[invalid]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3150" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JG5mKUsr8R8CMkxU9Bzs-31" value="[valid]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3350" y="618" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JG5mKUsr8R8CMkxU9Bzs-35" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.588;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.117;entryY=0.404;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JG5mKUsr8R8CMkxU9Bzs-29" target="JG5mKUsr8R8CMkxU9Bzs-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3330" y="680" as="sourcePoint" />
+            <mxPoint x="3560" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG5mKUsr8R8CMkxU9Bzs-26" value="6. notifikasi sukses" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.988;exitY=0.736;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3340" y="730" as="sourcePoint" />
-            <mxPoint x="3562.5400000000004" y="728.5999999999999" as="targetPoint" />
+            <mxPoint x="3334.999999999999" y="699.9999999999999" as="sourcePoint" />
+            <mxPoint x="3569.62" y="700.32" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3350" y="730" />
+              <mxPoint x="3350.12" y="700.32" />
             </Array>
           </mxGeometry>
         </mxCell>
